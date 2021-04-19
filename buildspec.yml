@@ -11,14 +11,19 @@ phases:
       - echo "Enteredin post-build phase"
 artifacts:
   files:
+    - car-listing.php
+    - check_availability
+    - contact-us.php
     - index.php
-    - style.css
-    - change-password.php
-    - check_availability.php
-    - enroll-history.php
-    - enroll.php
     - logout.php
-    - my-profile.php
-    - pincode-verification.php
-    - print.php
+    - manage-bookings.php
+    - my-bookings.php
+    - my-testimonials.php
+    - page.php
+    - post-testimonials.php
+    - profile.php
+    - search-carresult.php
+    - search.php
+    - update-password.php
+    - vehicle-details.php
     - '**/*'
