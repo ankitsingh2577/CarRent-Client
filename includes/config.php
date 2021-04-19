@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
+define('DB_HOST','car-rental.cyewhmsodcs2.us-east-1.rds.amazonaws.com');
+define('DB_USER','admin');
+define('DB_PASS','Ankit2577');
 define('DB_NAME','carrental');
 // Establish database connection.
 try
